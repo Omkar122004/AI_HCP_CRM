@@ -16,7 +16,7 @@ The application helps pharmaceutical sales representatives log doctor interactio
 
 Example
 
-> Today I met Dr. Rajesh Sharma at Apollo Hospital. We discussed Product X and shared brochures.
+> Today I had an in-person meeting with Dr. Rajesh Sharma at Apollo Hospital on 2026-07-08 from 10:30 AM to 11:15 AM. Attendees included Dr. Rajesh Sharma and Nurse Anita. We discussed Product X, its clinical benefits, dosage, and recent clinical trial results. I shared product brochures and clinical literature, distributed two sample packs, the doctor showed positive interest, agreed to evaluate Product X for suitable patients, and the follow-up is scheduled for 2026-07-15.
 
 ---
 
@@ -26,7 +26,7 @@ Modify previously logged interactions using natural language.
 
 Example
 
-> Update Dr. Rajesh Sharma's interaction and change the sentiment to Positive.
+> Update Dr. Rajesh Sharma's interaction. Change the interaction type to Phone Call, update the sentiment to Negative, change the outcome to "The doctor requested additional clinical evidence before prescribing Product X", and reschedule the follow-up to 2026-07-20.
 
 ---
 
@@ -46,7 +46,7 @@ Generates a professional summary of previous doctor interactions.
 
 Example
 
-> Summarize interaction with Dr. Rajesh Sharma
+> Summarize the interaction with Dr. Rajesh Sharma.
 
 ---
 
@@ -56,7 +56,7 @@ Provides intelligent recommendations for the next visit.
 
 Example
 
-> Suggest follow-up for Dr. Rajesh Sharma
+> Suggest a follow-up for Dr. Rajesh Sharma.
 
 ---
 
