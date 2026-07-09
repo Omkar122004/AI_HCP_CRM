@@ -19,6 +19,7 @@ import InputField from "./InputField";
 import SelectField from "./SelectField";
 import TextArea from "./TextArea";
 import RadioGroup from "./RadioGroup";
+import VoiceNote from "./VoiceNote";
 
 import { updateField } from "../features/interaction/interactionSlice";
 
@@ -137,9 +138,9 @@ export default function InteractionForm() {
             )
           }
         />
+        <VoiceNote />
       </div>
 
-     
       {/* ============================= */}
       {/* Materials Shared / Samples */}
       {/* ============================= */}
